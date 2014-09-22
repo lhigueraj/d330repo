@@ -1,5 +1,5 @@
 ***Simple Do File
-author: SC
+Authors: Students in D330
 
-di "Hello" // Some comment 
+di "Hello" // This line was written by SC
 
