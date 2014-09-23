@@ -7,3 +7,5 @@ di "Please sign up when you see this file."
 di as text "Yao is here."
 
 di as error "This file is from Yao's branch."
+
+di "OK" // SC
