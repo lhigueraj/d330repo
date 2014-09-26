@@ -11,3 +11,9 @@ di "Please sign up when you see this file."
 di as text "Yao is here."
 
 di as error "This file is from Yao's branch."
+
+local L Lucas
+local H Higuera
+
+display "`L' `H' was here too"
+
